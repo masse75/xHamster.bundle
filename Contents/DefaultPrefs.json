@@ -1,0 +1,9 @@
+[
+	{
+		"id": "filterContent",
+		"type": "enum",
+		"label": "Filter Content",
+		"values": ["Straight","Transsexual","Gay","All"],
+		"default": "Straight" 
+	}
+]
