@@ -13,7 +13,7 @@ XH_LATEST = 'http://xhamster.com/last50.php'
 XH_TOPRATED = 'http://xhamster.com/rankings/%s-top-videos.html'
 XH_MOSTVIEWED = 'http://xhamster.com/rankings/%s-top-viewed.html'
 XH_SEARCH = 'http://xhamster.com/search.php?q=%s&page=%s&content=%s'
-XH_PLAYER = 'http://xhamster.com/flv2/'
+XH_PLAYER = 'http://xhcdn.com/key='
 
 USER_AGENT = 'Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10.6; en-US; rv:1.9.2.12) Gecko/20101026 Firefox/3.6.12'
 
